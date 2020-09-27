@@ -7,11 +7,11 @@ A new Flutter application.
 This project is a starting point for a Flutter application.
 ![](.test/1.png)
 ![](/todolist/tree/master/test/1.png)
-![alt text](https://github.com/muradkhan995/todolist/tree/master/test/1.png)
-![alt text](https://github.com/muradkhan995/todolist/tree/master/test/2.png)
-![alt text](https://github.com/muradkhan995/todolist/tree/master/test/3.png)
-![alt text](https://github.com/muradkhan995/todolist/tree/master/test/4.png)
-![alt text](https://github.com/muradkhan995/todolist/tree/master/test/5.png)
+![](https://github.com/muradkhan995/todolist/tree/master/test/1.png)
+![](https://github.com/muradkhan995/todolist/tree/master/test/2.png)
+![](https://github.com/muradkhan995/todolist/tree/master/test/3.png)
+![](https://github.com/muradkhan995/todolist/tree/master/test/4.png)
+![](https://github.com/muradkhan995/todolist/tree/master/test/5.png)
 
 A few resources to get you started if this is your first Flutter project:
 
