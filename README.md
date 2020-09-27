@@ -20,8 +20,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 todolist/test/
 
-![](/test/1.png =250x250)
-![](/test/2.png =250x250)
+![](/test/1.png | width=100)
+![](/test/2.png | width=100)
 ![](/test/3.png =250x250)
 ![](/test/4.png =250x250)
 ![](/test/5.png =250x250)
