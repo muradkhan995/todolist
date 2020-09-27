@@ -5,13 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![](.test/1.png)
-![](/todolist/tree/master/test/1.png)
-![](https://github.com/muradkhan995/todolist/test/1.png)
-![](https://github.com/muradkhan995/todolist/tree/master/test/2.png)
-![](https://github.com/muradkhan995/todolist/tree/master/test/3.png)
-![](https://github.com/muradkhan995/todolist/tree/master/test/4.png)
-![](https://github.com/muradkhan995/todolist/tree/master/test/5.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,6 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 todolist/test/
 
 ![](/test/1.png)
+![](/test/2.png)
+![](/test/3.png)
+![](/test/4.png)
+![](/test/5.png)
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
